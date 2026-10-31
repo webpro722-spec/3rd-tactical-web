@@ -1,0 +1,12 @@
+{
+  "name": "3rd-tactical-battalion",
+  "version": "1.0.0",
+  "description": "3rd Tactical Battalion Admin System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
